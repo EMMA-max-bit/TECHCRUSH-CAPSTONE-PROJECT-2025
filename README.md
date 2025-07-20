@@ -90,6 +90,76 @@ ACRONYM	      FULL MEANING
 3.  Used Power BI to build dynamic visuals and dashboards for stakeholder presentation.
 4.  Extracted key insights and synthesized actionable recommendations.
 
+### Objective 1: Accident Frequency & Severity
+
+✓ FCT recorded the highest accident frequency across both years.
+
+✓ Serious accidents accounted for over 50% of total reported cases.
+
+✓ Other high-risk states include Ogun, Lagos, Kaduna, and Rivers.
+
+### Objective 2: Patterns and Trends
+✓  Q2 recorded the most accidents in both years.
+
+✓  Quarterly peaks suggest seasonal travel behaviors and weather conditions.
+
+✓	 Minor accidents are increasing slightly, suggesting a shift in accident type severity.
+
+### Objective 3: Top Causes of Accidents
+✓ Speed Violation (SPV) was the leading cause (40–45% of all cases).
+
+✓ Other major causes include Brake Failure, Dangerous Driving, and Overloading.
+
+✓	Trends show that behavioral causes are far more common than infrastructure- related ones.
+
+### Objective 4: Casualties and People Involved
+
+✓  Some states like Kano and Bauchi had high casualty-to-case ratios.
+
+✓  Over 12,000 people were involved in the recorded crashes.
+
+✓	Fatality rates were highest where emergency response and road conditions were poor 
+
+### Visual	Description
+Bar Chart – Accidents per State,	Shows total accident count per state.
+
+Line Chart – Quarterly Trends	Visualizes fatal, serious, and minor cases over time.
+
+Stacked Column – Severity, Over Time	Combines all accident types per quarter for trend comparison.
+
+Nigeria Map (Shape Map)	Darker colors show higher accident states. FCT, Ogun, and Kaduna stand out.
+
+### Recommendations.
+Based on the data analysis and observed trends, the following are recommended:
+
+1. Policy & Enforcement
+   
+➢Install speed cameras and increase road patrols in the top 5 accident-prone states.
+
+➢Enforce rest periods for inter-state drivers to reduce fatigue-related crashes.
+
+➢Launch quarterly campaigns focusing on SPV and MDV (especially before Q2).
+
+2. Infrastructure Improvements
+   
+➢Prioritize fixing roads in regions with high reports of brake failure and bad roads.
+
+➢Create additional bypass roads to reduce congestion and driver frustration.
+
+3. Emergency Response.
+   
+➢Expand emergency response facilities in fatality-dense regions.
+
+➢Promote real-time crash reporting and response coordination with FRSC.
+
+### Conclusion:
+This capstone project has demonstrated the value of data analytics in addressing public safety concerns like road traffic accidents. By analyzing FRSC data from Q1 2023 to Q3
+2024,  we  have  identified  high-risk  states,  dangerous  accident  trends,  and  critical causative factors.
+These insights are essential for shaping effective road safety policies, allocating resources, and launching targeted interventions. With the right enforcement and infrastructure reforms, Nigeria can make measurable progress in reducing road accidents and saving lives.
+
+
+
+
 
 
 
